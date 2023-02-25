@@ -1,6 +1,16 @@
 # Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet
 This repository is the documentation for RK3566 rk3568 tablet products, written by RSD Team of HYY Technology Co.,Ltd.
 
+I need the Linux Firmware for the RK3588 too. We have found out that 4K/8K videos are buggy in Linux. But we want to do a small video server with networkoptix video software. Can you do us the Linux Image for this, that we can test.
+networkoptix.com
+
+Can you tell me the config steps for networkoptix. And how test for you.
+I can do new Linux img for you.
+
+
+Which one is the application we need.
+
+
 
 # Contacts
 - Website: www.we-signage.com
