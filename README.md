@@ -11,7 +11,14 @@ I can do new Linux img for you.
 Which one is the application we need.
 
 
+nxwitness-client-5.0.0.35745-linux_arm64.deb
+https://1drv.ms/u/s!AqvWy-LFD_JhijUws4uXhY2QId7z?e=fu33Cr
 
+nxwitness-client-5.0.0.35745-windows_x64.exe
+https://1drv.ms/u/s!AqvWy-LFD_JhijO370vXVbTdSAYY?e=3jRqrJ
+
+nxwitness-server-5.0.0.35745-linux_arm64.deb
+https://1drv.ms/u/s!AqvWy-LFD_JhijSlUjAT7wAtWPDc?e=gwp27x
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
