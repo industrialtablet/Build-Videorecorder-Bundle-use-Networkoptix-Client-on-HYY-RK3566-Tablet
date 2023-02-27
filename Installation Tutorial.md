@@ -28,11 +28,11 @@ sudo apt update
 sudo dpkg -i nxwitness-client-5.0.0.35745-linux_arm64.deb
 ```
 
-![](C:\Users\admin\Documents\GitHub\RK3588\Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet\files\1.png)
+![](https://github.com/evin792/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet/blob/main/files/1.png)
 
 If you encounter this situation, install [[libxcb-util1](http://ftp.br.debian.org/debian/pool/main/x/xcb-util/)]
 
-![](C:\Users\admin\Documents\GitHub\RK3588\Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet\files\2.png)
+![](https://github.com/evin792/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet/blob/main/files/2.png)
 
 After installing **libxcb-util1**,  again install **nxwitness-client-5.0.0.35745-linux_arm64.deb** success
 
