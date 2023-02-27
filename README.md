@@ -20,7 +20,9 @@ https://1drv.ms/u/s!AqvWy-LFD_JhijO370vXVbTdSAYY?e=3jRqrJ
 nxwitness-server-5.0.0.35745-linux_arm64.deb
 https://1drv.ms/u/s!AqvWy-LFD_JhijSlUjAT7wAtWPDc?e=gwp27x
 
-View : [Installation Tutorial.md](https://github.com/evin792/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet/blob/main/Installation%20Tutorial.md)
+
+
+Please View :**Installation Tutorial**
 
 # Contacts
 - Website: www.we-signage.com
