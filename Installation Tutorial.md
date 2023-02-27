@@ -28,11 +28,11 @@ sudo apt update
 sudo dpkg -i nxwitness-client-5.0.0.35745-linux_arm64.deb
 ```
 
-![image-20230225174507370](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20230225174507370.png)
+![](C:\Users\admin\Documents\GitHub\RK3588\Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet\files\1.png)
 
 If you encounter this situation, install [[libxcb-util1](http://ftp.br.debian.org/debian/pool/main/x/xcb-util/)]
 
-![image-20230225175044949](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20230225175044949.png)
+![](C:\Users\admin\Documents\GitHub\RK3588\Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet\files\2.png)
 
 After installing **libxcb-util1**,  again install **nxwitness-client-5.0.0.35745-linux_arm64.deb** success
 
