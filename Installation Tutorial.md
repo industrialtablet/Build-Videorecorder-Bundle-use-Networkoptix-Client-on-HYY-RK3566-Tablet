@@ -42,5 +42,7 @@ sudo dpkg -i NXWITNESS-server-5.0.0.35745-linux_arm64.deb
 
 # 3、Nx Witness Quick Start Guide
 
-[Nx Witness Quick Start Guide](https://github.com/evin792/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet/blob/main/quick_start_guide.pdf)
+Please View：[Nx Witness Quick Start Guide](https://github.com/evin792/Build-Videorecorder-Bundle-use-Networkoptix-Client-on-HYY-RK3566-Tablet/blob/main/quick_start_guide.pdf)
+
+
 
